@@ -7,7 +7,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 DATA_PATH = BASE_DIR / "data" / "student.csv"
 MODEL_PATH = BASE_DIR / "model" / "acadai_model.pkl"
 
