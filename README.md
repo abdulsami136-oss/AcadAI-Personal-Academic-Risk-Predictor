@@ -44,7 +44,8 @@ npm install
 cp .env.example .env
 npm run dev
 `
-
+https://acadai-personal-risk-predictor.vercel.app/
+or
 Open http://localhost:5173
 
 ### Admin
